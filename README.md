@@ -80,4 +80,3 @@ dino-game-automation/
 - pyautogui
 - pillow
 - numpy
-```
